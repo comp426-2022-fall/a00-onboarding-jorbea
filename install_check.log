@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin jordans-mbp-3.wireless-1x.unc.edu 21.6.0 Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:25 PDT 2022; root:xnu-8020.140.41~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/zsh]
+GIT:	[/usr/bin/git] git version 2.24.3 (Apple Git-128)
+VIM:	[/usr/local/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Aug 13 2022 18:35:05)
+CURL:	[/usr/bin/curl] curl 7.79.1 (x86_64-apple-darwin21.0) libcurl/7.79.1 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.45.1
+NODE:	[/Users/Jordan/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
